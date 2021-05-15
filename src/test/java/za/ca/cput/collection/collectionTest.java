@@ -1,5 +1,9 @@
 package za.ca.cput.collection;
-
+/*
+name: Sindiswa Mbhele
+date: 15 May 2021
+student number: 219279616
+ */
 import org.junit.jupiter.api.Test;
 
 import java.util.*;
